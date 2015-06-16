@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'yaml'
 
 # Responsible for hanlding all the individual bookmarks.
